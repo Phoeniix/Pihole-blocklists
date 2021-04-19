@@ -1,0 +1,13 @@
+#Title: Blocklist for SMS spam
+#
+# A collection of domains which will be used for sms spam
+#
+#----------------------------------------------------------------------------------------------------------------
+0.0.0.0 clubparfum.fr
+0.0.0.0 ginghot.com
+0.0.0.0 immicounsel
+0.0.0.0 proudhouseproperty.co.uk
+0.0.0.0 theblackkhan.com
+
+
+
